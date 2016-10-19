@@ -1,0 +1,15 @@
+{
+  "manifests/groups.pp": "bc615a79ee63b15c42a3ba5ab693daf5",
+  "spec/spec.opts": "a600ded995d948e393fbe2320ba8e51c",
+  "manifests/init.pp": "db9bc5b45d07d223c32d1c91f4da678f",
+  "manifests/users.pp": "17d4c828d99bfa2a545a473bbd77c2eb",
+  "manifests/user.pp": "dfadcf27d5bb9f0e72e81aa4b7f86337",
+  "README.md": "6fcec969a40b3d14214c460f02272ad7",
+  "metadata.json": "83e5db417a67b6ed897f67a1abf8b6f7",
+  "spec/spec_helper.rb": "3ea886dd135e120afa31e0aab12e85b0",
+  "Rakefile": "f37e6131fe7de9a49b09d31596f5fbf1",
+  "manifests/group.pp": "f3a636924fc7597d1cd9eeb24b0f2741",
+  "Changelog": "f11166a0b52e781f4acad96d1e0e510b",
+  "LICENSE": "7702f203b58979ebbc31bfaeb44f219c",
+  "tests/init.pp": "884f0dbbdf87cab37653ab5dbbc783f1"
+}

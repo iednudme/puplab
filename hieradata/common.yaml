@@ -1,0 +1,16 @@
+key1: heriatestfile
+key2: content of heriatest
+user: 
+    - userhr01
+    - userhr02
+    - userhr03
+
+group: 
+    - grouphr01
+    - grouphr02
+    - grouphr03
+
+group1::array1:
+    - value1
+    - value2
+    - value3

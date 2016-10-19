@@ -1,0 +1,26 @@
+v0.3.0
+- FEATURE: add $sync_home abd $sync_home_src user class property
+
+v0.2.5
+- FEATURE: add $home_owner and $home_group user class property
+
+v0.2.4
+- BUGFIX: add home_perms defaut value
+
+v0.2.3
+- minor fixes
+
+v0.2.2
+- add home_perms property to user class
+
+v0.2.1
+- ensure that the domain home base directory exists
+
+v0.2.0
+- rebuild users, groups, user part to fix some issues
+
+v0.1.1
+- fix dependencies on the metadata.json
+
+v0.1.0
+- initial version
